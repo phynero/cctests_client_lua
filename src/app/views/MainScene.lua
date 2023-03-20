@@ -18,6 +18,9 @@ function MainScene:onCreate()
         "a_star",
         "jps",
         "yang",
+        "blendfunc",
+        -- "physic",
+        "skynetclient",
     }
 
     for i = 1, #names, 1 do

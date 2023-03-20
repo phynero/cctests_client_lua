@@ -1,0 +1,55 @@
+
+zhenchaniao.png
+size: 120,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+niao
+  rotate: true
+  xy: 99, 12
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+niao2
+  rotate: false
+  xy: 50, 35
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+niao3
+  rotate: false
+  xy: 94, 3
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+you1
+  rotate: false
+  xy: 99, 36
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+you2
+  rotate: true
+  xy: 50, 2
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+zuo1
+  rotate: true
+  xy: 2, 4
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+zuo2
+  rotate: true
+  xy: 2, 32
+  size: 40, 46
+  orig: 40, 46
+  offset: 0, 0
+  index: -1
